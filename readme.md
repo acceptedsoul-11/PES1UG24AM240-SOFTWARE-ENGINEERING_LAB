@@ -10,7 +10,6 @@ To identify software requirements and model the interactions of a self-service c
 
 * Created **5 Functional Requirements** and **2 Nonfunctional Requirements**.
 * Identified the main actors: **Customer, Payment Gateway, and Admin**.
-* Created a **UML Use-Case Diagram** with `«include»`/`«extend»` relationships.
 * Prepared the **Complete Coffee Order** use-case flow with a main success scenario and an alternate payment-failure flow.
 
 ### Deliverables
