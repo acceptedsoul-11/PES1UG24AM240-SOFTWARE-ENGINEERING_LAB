@@ -30,7 +30,6 @@ To identify software requirements and model the interactions involved in orderin
 
 * Created **5 Functional Requirements** and **2 Nonfunctional Requirements**.
 * Identified the main actors: **Customer, Pharmacist/Admin, and Notification Service**.
-* Created a **UML Use-Case Diagram** with `«include»`/`«extend»` relationships.
 * Prepared the **Place Medicine Order** use-case flow with a main success scenario and alternate flows.
 
 ### Deliverables
