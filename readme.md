@@ -32,6 +32,10 @@ To identify software requirements and model the interactions involved in orderin
 * Identified the main actors: **Customer, Pharmacist/Admin, and Notification Service**.
 * Prepared the **Place Medicine Order** use-case flow with a main success scenario and alternate flows.
 
+---
+##EXPERIMENT-3
+*Handled assigned task-24 and have committed necessary deliverables on 20/08/2026.
+
 ### Deliverables
 
 * Requirements Table
