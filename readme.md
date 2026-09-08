@@ -5,7 +5,7 @@ This repository contains the experiments, case studies, implementations, UML dia
 ## Student Details
 
 - **SRN:** PES1UG24AM240
-- **Use Case:**24
+- **Use Case:** 24
 - **Course:** Software Engineering Lab
 
 ## Contents
