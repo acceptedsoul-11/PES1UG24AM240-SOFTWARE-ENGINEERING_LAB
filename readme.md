@@ -1,47 +1,31 @@
-# Lab 1 – Requirements Engineering & UML Use-Case Modelling(AM240)
+# Software Engineering Lab
 
-## Experiment 1: Self-Service Coffee Kiosk
+This repository contains the experiments, case studies, implementations, UML diagrams, documentation, and other deliverables completed as part of the **Software Engineering Lab**.
 
-### Objective
+## Student Details
 
-To identify software requirements and model the interactions of a self-service coffee kiosk using UML.
+- **SRN:** PES1UG24AM240
+- **Use Case:**24
+- **Course:** Software Engineering Lab
 
-### Work Done
+## Contents
 
-* Created **5 Functional Requirements** and **2 Nonfunctional Requirements**.
-* Identified the main actors: **Customer, Payment Gateway, and Admin**.
-* Prepared the **Complete Coffee Order** use-case flow with a main success scenario and an alternate payment-failure flow.
+The repository includes:
 
-### Deliverables
+- Software engineering case studies
+- Use Case diagrams and analysis
+- UML diagrams
+- System and architectural design
+- Components and interfaces
+- Software implementations
+- Lab documentation and reports
+- Other related course deliverables
 
-* Requirements Table
-* UML Use-Case Diagram
-* Use-Case Flow
+## Purpose
 
----
-
-## Experiment 2: Pharmacy Medicine Pickup System
-
-### Objective
-
-To identify software requirements and model the interactions involved in ordering and collecting medicines from a pharmacy.
-
-### Work Done
-
-* Created **5 Functional Requirements** and **2 Nonfunctional Requirements**.
-* Identified the main actors: **Customer, Pharmacist/Admin, and Notification Service**.
-* Prepared the **Place Medicine Order** use-case flow with a main success scenario and alternate flows.
+The purpose of this repository is to maintain and document the practical work completed throughout the **Software Engineering Lab** and to demonstrate the application of software engineering principles in real-world system development.
 
 ---
-##EXPERIMENT-3
-*Handled assigned task-24 and have committed necessary deliverables on 20/08/2026.
 
-### Deliverables
-
-* Requirements Table
-* UML Use-Case Diagram
-* Use-Case Flow
-
-## Conclusion
-
-Both experiments involved identifying requirements, actors, use cases, and system flows, and representing them using **requirements tables and UML use-case models**.
+**Student:** PES1UG24AM240  
+**Course:** Software Engineering Lab
